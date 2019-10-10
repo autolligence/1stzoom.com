@@ -1,2 +1,1 @@
-Based on Hugo Fresh theme
-https://themes.gohugo.io/hugo-fresh/
+1stZoom.com static website (based on Hugo Fresh theme)
